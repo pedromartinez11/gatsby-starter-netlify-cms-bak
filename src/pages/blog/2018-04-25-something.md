@@ -10,6 +10,9 @@ tags:
   - bar
   - baz
   - lol
+hashtags:
+  - chivas
+  - hello
 ---
 hello world 
 
